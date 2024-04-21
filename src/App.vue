@@ -7,7 +7,7 @@
         <router-link to="/profile">个人主页</router-link>
         <router-link to="/ceshi">测试结果</router-link>
         <router-link to="/login">登录</router-link> 
-        <a href="https://github.com/fufu333/4.18-.git" target="_blank" class="github-button">GitHub代码仓库</a>  
+        <a href="https://github.com/fufu333/4.21shouwei.git" target="_blank" class="github-button">GitHub代码仓库</a>  
       </nav>
       <router-view /> 
     </div>
