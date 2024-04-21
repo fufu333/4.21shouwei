@@ -43,7 +43,7 @@ export default defineComponent({
     justify-content: space-between;
     align-items: center;
     width: 500px;
-    margin-top: 150px;
+    margin-top: 120px;
     margin-bottom: 20px;
 }
 
